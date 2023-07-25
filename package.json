@@ -1,0 +1,17 @@
+{
+  "name": "layout_ejercicio",
+  "version": "1.0.0",
+  "description": "Aprendiendo a usar Layout",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "yargs": "^17.7.2"
+  }
+}
